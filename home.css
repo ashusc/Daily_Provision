@@ -1,0 +1,139 @@
+/*style for home.html*/
+	#menu{
+		border-radius:5px;
+		border-style:solid;
+		border-color:darkcyan;
+		padding:5px;
+	}
+	#menu:hover{
+		border-radius:5px;
+		background-color:darkcyan;
+	}
+	a.menuu:hover{
+		color:lightcyan;
+		text-decoration: underline;
+	}
+	a{
+		text-decoration:none;
+		color:darkred;
+	}
+	a:hover{
+		text-decoration: underline;
+		color:darkred;
+	}
+	#logo_news{
+		border-style:solid;
+		border-color:lightcyan;
+		border-radius:60px;
+		height:80px;width:80px;
+		background-image:url("icons/news.png");
+		background-size:80px 80px;
+		background-repeat: no-repeat;
+	}
+	#logo_milk{
+		border-style:solid;
+		border-color:lightcyan;
+		border-radius:60px;
+		height:80px;width:80px;
+		background-image:url("icons/milk.jpg");
+		background-size:80px 80px;
+		background-repeat: no-repeat;
+	}
+	#logo_laundry{
+		border-style:solid;
+		border-color:lightcyan;
+		border-radius:60px;
+		height:80px;width:80px;
+		background-image:url("icons/laundry.jpg");
+		background-size:80px 80px;
+		background-repeat: no-repeat;
+	}
+	#logo_water{
+		border-style:solid;
+		border-color:lightcyan;
+		border-radius:60px;
+		height:80px;width:80px;
+		background-image:url("icons/water.jpg");
+		background-size:80px 80px;
+		background-repeat: no-repeat;
+	}
+	#logo_grocery{
+		border-style:solid;
+		border-color:lightcyan;
+		border-radius:60px;
+		height:80px;width:80px;
+		background-image:url("icons/grocery.jpg");
+		background-size:80px 80px;
+		background-repeat: no-repeat;
+	}
+	#logo_education{
+		border-style:solid;
+		border-color:lightcyan;
+		border-radius:60px;
+		height:80px;width:80px;
+		background-image:url("icons/education.jpg");
+		background-size:80px 80px;
+		background-repeat: no-repeat;
+	}
+	#logo_transportation{
+		border-style:solid;
+		border-color:lightcyan;
+		border-radius:60px;
+		height:80px;width:80px;
+		background-image:url("icons/transportation.jpg");
+		background-size:80px 80px;
+		background-repeat: no-repeat;
+	}
+	#logo_canteen{
+		border-style:solid;
+		border-color:lightcyan;
+		border-radius:60px;
+		height:80px;width:80px;
+		background-image:url("icons/canteen.jpg");
+		background-size:80px 80px;
+		background-repeat: no-repeat;
+	}
+	#logo_mobile{
+		border-style:solid;
+		border-color:lightcyan;
+		border-radius:60px;
+		height:80px;width:80px;
+		background-image:url("icons/mobile.png");
+		background-size:80px 80px;
+		background-repeat: no-repeat;
+	}
+	#logo_x{
+		border-style:solid;
+		border-color:lightcyan;
+		border-radius:60px;
+		height:80px;width:80px;
+		background-image:url("icons/extra.jpg");
+		background-size:80px 80px;
+		background-repeat: no-repeat;
+	}
+	tr.items:hover{
+		background-color:lightgreen;
+	}
+	td{
+		font-family:Courier new;
+		color:black;
+	}
+	body{
+		background-color:#aaccaa;
+	}
+	#page{
+		width:60%;
+		background-image:url("stripes-bg.png");
+		background-color:#ccbbdd;
+		box-shadow:1px 1px 10px gray;
+	}
+	#header{
+		margin-left:-8px;
+		margin-right:-8px;
+		margin-top:-10px;
+		width:100%;
+		background-color:darkcyan;
+		position:fixed;
+		margin-bottom:50px;
+		align:center;
+	}
